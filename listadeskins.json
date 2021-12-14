@@ -1,12 +1,5 @@
 [
     {
-        "nome": "Faca | Aço de Damasco",
-        "pattern": 953,
-        "float": 0.157,
-        "wear": "Testada em Campo",
-        "Valor": "R$ 14.50"
-    },
-    {
         "nome": "USP-S | Inoxidável",
         "pattern": 947,
         "float": 0.461,
