@@ -1,6 +1,6 @@
 [
     {
-        "nome": "Faca Stiletto (★) | Aço de Damasco",
+        "nome": "Faca | Aço de Damasco",
         "pattern": 953,
         "float": 0.157,
         "wear": "Testada em Campo",
@@ -11,7 +11,7 @@
         "pattern": 947,
         "float": 0.461,
         "wear": "Veterana de Guerra",
-        "valor": "R$ 790.50"
+        "valor": "R$ 14.50"
     },
     {
         "nome": "M4A4 | Magnésio",
